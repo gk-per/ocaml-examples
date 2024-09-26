@@ -1,2 +1,2 @@
 # ocaml-examples
-OCaml stuff
+OCaml code examples 
